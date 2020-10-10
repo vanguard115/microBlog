@@ -1,11 +1,17 @@
-{  
-    "page1": {  
-        "html_file":        "",   
-        "layout_file":      "" 
-    },
+{
+	"articles_map" : [
 
-    "page2": {  
-        "html_file":        "",   
-        "layout_file":      "" 
-    } 
-}   
+		
+	{
+		"article_title": "king-of-fruit",
+		"html_file": "mango.html",
+		"layout_file": "mango_template.html",
+		"article_name": "Mango example page : added 10Oct2020"
+	}
+
+
+]
+
+
+}
+
